@@ -1,4 +1,4 @@
-# 
+# Personalizado futures arbitrage bot fluxo de trabalho para Mac OS | Automático futures arbitrage bot fluxo de trabalho para PC Windows. Com gerenciamento de chaves privadas e ordens take-profit — otimizado para máximo desempenho em cada plataforma.
 
 
 
